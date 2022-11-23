@@ -1,0 +1,30 @@
+.react-icon {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    left: 26px;
+    top: 31px;
+    margin-right: 7px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    height: 90px;
+    padding: 30px 25px;
+}
+
+.nav--title {
+    color: #61DAFB;
+    margin: 0;
+    margin-right: auto;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.nav--text{
+    color: white;
+    margin: 0;
+    font-weight: 600;
+}
